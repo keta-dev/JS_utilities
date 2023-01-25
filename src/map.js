@@ -66,4 +66,3 @@ function newMap(callback) {
 }
 
 module.exports = newMap;
-// Yes

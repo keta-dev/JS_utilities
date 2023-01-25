@@ -1,0 +1,23 @@
+{
+  "name": "js_utilities",
+  "version": "1.0.0",
+  "description": "Advance JavaScript Utility functions and classes",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keta-dev/JS_utilities.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keta-dev/JS_utilities/issues"
+  },
+  "homepage": "https://github.com/keta-dev/JS_utilities#readme"
+}
