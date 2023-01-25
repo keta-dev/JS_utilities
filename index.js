@@ -6,7 +6,7 @@ const newReduce = require('./src/reduce');
 
 function init() {
   // Object
-  // Object.prototype.newReduce = newReduce;
+  Object.prototype.newReduce = newReduce;
 
   // String
   String.prototype.newReduce = newReduce;
